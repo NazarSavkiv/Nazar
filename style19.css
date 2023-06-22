@@ -1,0 +1,34 @@
+.navi {
+  width: 350px;
+  height: 350px;
+  background-color: #ffffcc;
+}
+
+img {
+  width: 200px;
+  height: 190px;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.monte {
+  width: 350px;
+  height: 350px;
+  background-color: #ccffff;
+}
+.navi,
+.monte {
+  display: inline-block;
+  margin-top: 10%;
+}
+
+body {
+  background-color: #ffcccc;
+}
+
+h1 {
+  font-size: 50px;
+}

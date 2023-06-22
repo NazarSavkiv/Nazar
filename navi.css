@@ -1,0 +1,27 @@
+body {
+  background-color: #ffffcc;
+  text-align: center;
+}
+
+.logo {
+  width: 330px;
+  height: 200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 250px;
+  height: 340px;
+}
+
+div {
+  background-color: #e0e0e0;
+  border: 2px solid black;
+  width: 300px;
+  height: auto;
+  float: left;
+  margin: 0px 5px 0px 5px;
+}
